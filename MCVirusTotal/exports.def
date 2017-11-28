@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+    Create @1
+	Delete @2
+	GetExtensionInfo @3
